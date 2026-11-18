@@ -1,0 +1,8 @@
+{
+    "model_version": "model_20261118_154104",
+    "algorithm": "RandomForestClassifier",
+    "accuracy": 0.9,
+    "minimum_accuracy": 0.9,
+    "dataset": "Iris",
+    "status": "promoted"
+}

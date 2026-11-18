@@ -1,0 +1,9 @@
+
+venv/
+__pycache__/
+*.pyc
+.git/
+.github/
+model_versions/
+model_candidate.pkl
+.env
